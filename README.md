@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Marinflas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![image](https://user-images.githubusercontent.com/33134685/201229204-57f7f944-0fe3-4359-829c-6b40607bb0b5.png)
 
-<!---
-Marinflas/Marinflas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, my name is Miguel
+#### I am Developer
+![I am Developer]
+I made exercises for increment my skills
+
+Skills: UX / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
